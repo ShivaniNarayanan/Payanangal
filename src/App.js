@@ -4,6 +4,7 @@ import TempleCarousel from "./Components/TempleCarousel";
 import DistrictsGallery from "./Components/DistrictsGallery";
 import CategorySection from "./Components/CategorySection";
 
+
 // Import all images
 import ootyMountain from "./assets/images/Ooty.jpg";
 import kodaikanalMountain from "./assets/images/Kodaikanal.jpg";
